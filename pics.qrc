@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/pics">
+        <file>C:/Users/李昱廷/Desktop/03.11.jpg</file>
+        <file>C:/Users/李昱廷/Desktop/game_background.jpg</file>
+        <file>C:/Users/李昱廷/Desktop/playercharballoon_p1.png</file>
+        <file>C:/Users/李昱廷/Desktop/normagauge_p2.png</file>
+        <file>C:/Users/李昱廷/Desktop/score_background.jpg</file>
+        <file>C:/Users/李昱廷/Desktop/未命名-1.png</file>
+        <file>C:/Users/李昱廷/Desktop/未命名-2.png</file>
+        <file>drum/blue.png</file>
+        <file>drum/red.png</file>
+    </qresource>
+</RCC>
